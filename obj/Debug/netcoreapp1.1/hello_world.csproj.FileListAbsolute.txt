@@ -1,0 +1,8 @@
+/Users/Anna/Desktop/C#/hello_world/bin/Debug/netcoreapp1.1/hello_world.deps.json
+/Users/Anna/Desktop/C#/hello_world/bin/Debug/netcoreapp1.1/hello_world.runtimeconfig.json
+/Users/Anna/Desktop/C#/hello_world/bin/Debug/netcoreapp1.1/hello_world.runtimeconfig.dev.json
+/Users/Anna/Desktop/C#/hello_world/bin/Debug/netcoreapp1.1/hello_world.dll
+/Users/Anna/Desktop/C#/hello_world/bin/Debug/netcoreapp1.1/hello_world.pdb
+/Users/Anna/Desktop/C#/hello_world/obj/Debug/netcoreapp1.1/hello_world.AssemblyInfo.cs
+/Users/Anna/Desktop/C#/hello_world/obj/Debug/netcoreapp1.1/hello_world.dll
+/Users/Anna/Desktop/C#/hello_world/obj/Debug/netcoreapp1.1/hello_world.pdb
